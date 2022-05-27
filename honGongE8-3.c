@@ -20,7 +20,7 @@ int main(void)
         total += score[i];
     }
 
-    avg = total / (double)count;
+    avg = (double)total / (double)count;
 
     for (i = 0; i < count; i++)
     {
