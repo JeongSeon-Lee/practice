@@ -11,7 +11,6 @@ int main(void) {
     str1[4] = 'e';
     str1[5] = '\0';
 
-
     printf("문자 상수 대입 : %s\n", str1);
 
     printf("최초 문자열 : %s\n", str);
